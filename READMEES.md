@@ -169,14 +169,4 @@ O desde la consola web de HiveMQ Cloud → **Web Client** → suscribir a `facto
 
 ---
 
-## 🗺️ Roadmap Sugerido
-
-- [ ] Persistencia histórica en InfluxDB
-- [ ] Grafana como alternativa al dashboard Node-RED
-- [ ] API REST (FastAPI) para consultas externas
-- [ ] Modo replay con datos históricos grabados
-- [ ] Integración con agente IA para detección predictiva de fallas (MantOS)
-
----
-
 **Autor:** Gabriel Castro — Especialista en Automatización e IIoT
